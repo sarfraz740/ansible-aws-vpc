@@ -1,4 +1,4 @@
-- host: local
+- host: localhost
   connection: local
   gather_facts: false
   tasks:
